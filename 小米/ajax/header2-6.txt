@@ -1,0 +1,1 @@
+﻿[{text:"新品",href:"javascript:",img:"images/menu6.jpg",text2:"小米路由器 Pro",text3:"1499元"},{text:"新品",href:"javascript:",img:"images/menu6.jpg",text2:"小米路由器 Pro",text3:"1499元"},{text:"新品",href:"javascript:",img:"images/menu6.jpg",text2:"小米路由器 Pro",text3:"1499元"},{text:"新品",href:"javascript:",img:"images/menu6.jpg",text2:"小米路由器 Pro",text3:"4499元"}]
